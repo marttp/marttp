@@ -9,9 +9,10 @@
   <img align="left" alt="Thanaphoom Babparn's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 </br>
+</br>
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
