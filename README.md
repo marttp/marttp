@@ -6,7 +6,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&theme=dracula)
 
-[![marttp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marttp)](https://github.com/marttp/github-readme-stats)
+[![marttp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marttp)](https://github.com/marttp/marttp)
 
 
 <!--
