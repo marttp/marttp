@@ -1,4 +1,4 @@
-# Hello everyone, I'm Thanaphoom Babparn (Mart) ✌😄
+# Hi everyone, I'm Thanaphoom Babparn (Mart) ✌😄
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5JMHvrfKREtQoDi_AQO_Hg?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UC5JMHvrfKREtQoDi_AQO_Hg?sub_confirmation=1) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5JMHvrfKREtQoDi_AQO_Hg?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UC5JMHvrfKREtQoDi_AQO_Hg?sub_confirmation=1)
@@ -13,6 +13,8 @@
 
 Talking About Me
 ---
+Again, I'm Thanaphoom Babparn, but you can call me Mart or Smart 😁. I'm a software engineer from Thailand who focus on the server-side technology.
+Yes, I'm a Backend developer but not focus only that. I also interested in the world of the cloud and DevOps too. (And a little bit of frontend skills 😂)
 
 - 👨🏽‍💻 I’m currently working as a Java Developer (can do other things also)
 - 💭 I want to be a Cloud developer
