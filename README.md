@@ -9,9 +9,8 @@
   <img align="left" alt="Thanaphoom Babparn's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 <br />
-<br />
 
-Talking about me
+Talking About Me
 ---
 
 - 🔭 I’m currently working on ...
@@ -74,7 +73,7 @@ Tool & Management:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <br />
 
-My Github stats
+My Github Stats
 ---
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)
