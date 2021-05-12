@@ -14,7 +14,7 @@
 Talking About Me
 ---
 Again, I'm Thanaphoom Babparn, but you can call me Mart or Smart 😁. I'm a software engineer from Thailand who focus on the server-side technology.
-Yes, I'm a Backend developer but not focus only that. I also interested in the world of the cloud and DevOps too. (And a little bit of frontend skills 😂)
+Yes, I'm a Backend developer but not focus only that. I also interested in the world of the cloud and DevOps too. (And a little bit of Frontend skills 😂)
 
 - 👨🏽‍💻 I’m currently working as a Java Developer (can do other things also)
 - 💭 I want to be a Cloud developer
