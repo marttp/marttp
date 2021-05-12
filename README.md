@@ -11,17 +11,6 @@
 </br>
 
 
-
-My Github stats
----
-
-![](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact&theme=algolia)
-
-<!--
-**marttp/marttp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -32,4 +21,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+My Github stats
+---
+
+![](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact&theme=algolia)
+
+
+Publications
+---
+- [Medium](https://medium.com/@tpbabparn)
