@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact) -->
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&theme=dracula)
-
-[![marttp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marttp)](https://github.com/marttp/marttp)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact&theme=algolia)
 
 <!--
 **marttp/marttp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
