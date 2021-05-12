@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact) -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&theme=tokyonigh)
 
 <!--
 **marttp/marttp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
