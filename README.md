@@ -37,9 +37,9 @@
 My Github stats
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)
+![All Stats](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact&theme=algolia)
 
 
 Publications
