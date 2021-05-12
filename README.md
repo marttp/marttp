@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact)
 
