@@ -87,3 +87,9 @@ Publications
 I also published & shared my knowledge to another platform as well
 
 - [Medium](https://medium.com/@tpbabparn)
+
+Additional
+---
+I also practice to be a part-time freelance as a backend developer.
+If you have any tasks and don't in rush that created by Node.js or Spring Boot technology,
+You can reach me at tp.babparn@gmail.com for another detail.
