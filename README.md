@@ -3,16 +3,8 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5JMHvrfKREtQoDi_AQO_Hg?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UC5JMHvrfKREtQoDi_AQO_Hg?sub_confirmation=1) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5JMHvrfKREtQoDi_AQO_Hg?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UC5JMHvrfKREtQoDi_AQO_Hg?sub_confirmation=1)
 
-
-<a href="https://www.linkedin.com/in/thanaphoom-babparn/">
-  <img align="left" alt="Thanaphoom Babparn's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://medium.com/@tpbabparn">
-  <img align="left" alt="Thanaphoom Babparn's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
-</a>
-
-
-<br />
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanaphoom-babparn/)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tpbabparn)
 
 <br />
 
@@ -32,7 +24,6 @@ Little Joke!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
 
-<br />
 
 ## Languages and Tools
 
