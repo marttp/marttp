@@ -32,6 +32,8 @@ Little Joke!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
 
+<br />
+
 ## Languages and Tools
 
 Language:
@@ -46,7 +48,8 @@ Language:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></code>
-
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/></code>
 
 Backend:
 
@@ -81,6 +84,7 @@ Database:
 
 Real-World Software Engineering Tools:
 
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /></code>
@@ -97,7 +101,7 @@ Cloud & Deployment:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></code>
 
 
-Tool & Management:
+Others:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img height="25" src="https://i0.wp.com/konghq.com/wp-content/uploads/2017/11/kong-community-team_512x512.png?ssl=1"></code>
