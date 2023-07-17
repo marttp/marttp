@@ -15,7 +15,7 @@ Yes, I'm a Backend developer but not focus only that. I also interested in the w
 - 👨🏽‍💻 I’m currently working as a Java Developer (can do other things also)
 - 💭 I want to be a Cloud developer
 - ❤ I love to create business/enterprise backend or build somethings that value people
-- 🌱 I’m currently learning on Blockchain developer & another stuff on the server-side e.g. Kubernetes, API Gateway
+- 🌱 I’m currently learning on Rust backend development & another stuff on the server-side e.g. Kubernetes, API Gateway
 - 💬 You can ask me about anything. If I can help you, I will do my best to solve your problems
 - 📫 How to reach me: tp.babparn@gmail.com
 - ⚡ Fun fact: I want to work at Big Tech companies in UK/EU and live there. 🥺
