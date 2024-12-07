@@ -79,9 +79,7 @@ Note: I can develop new products on any framework as long as I get paid.
 
 ## My Github Stats
 
-[![All Stats](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)](https://github.com/marttp)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact&theme=algolia)](https://github.com/marttp)
+[![All Stats](https://github-readme-stats.vercel.app/api?username=marttp&rank_icon=github&theme=chartreuse-dark)](https://github.com/marttp)
 
 <br />
 
