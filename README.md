@@ -25,6 +25,11 @@ Yes, I'm a Backend developer but not focus only on that. I am also interested in
 
 I'm running page called [TP Coder](https://www.facebook.com/tpcoder). I'm proud in my state without community support. I just want to drive society.
 
+## Note
+
+* Please let me know if you are looking for more contributors to an open-source project and if my skills meet your expectations/requirements.
+* Please let me know if you are starting a non-profit organization project and whether my skills meet your expectations/requirements.
+
 ## Languages and Tools
 
 ### Language
