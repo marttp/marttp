@@ -14,12 +14,14 @@ Again, I'm Thanaphoom Babparn, but you can call me Mart or Smart 😁. I'm a sof
 Yes, I'm a Backend developer but not focus only on that. I am also interested in the world of the cloud and DevOps. (And a little bit of Frontend skills 😂)
 
 - 👨🏽‍💻 I’m currently working as a Backend Engineer in Tokyo, Japan 🇯🇵 with 5+ years of work experience.
-- 💭 At first, I want to be a Cloud developer. However, the times have changed me. I'm proud in my current Product engineer role.
+- 💭 At first, I want to be a Cloud developer. However, the times have changed me. I'm proud of my current Product engineer role.
 - ❤ I love to create business/enterprise backends or build something that values people
 - 🌱 I’m currently learning Rust backend development & other stuff on the server side e.g. Kubernetes, API Gateway
 - 💬 You can ask me about anything. If I can help you, I will do my best to solve your problems
 - 📫 How to reach me: tp.babparn@gmail.com
 - ⚡ Fun fact: I want to work at Big Tech companies. 🥺
+
+### [My portfolio](https://portfolio.tpcoder.dev/)
 
 ## Facebook Page
 
