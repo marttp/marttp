@@ -102,9 +102,10 @@ I also published & shared my knowledge to another platform as well
 
 ## Additional
 
-If my skeleton/demo project can help you and you want to support me, you can buy me some coffee!
+If my skeleton/demo project can help you and you want to support me, you can support me here.
 
-<a href="https://www.buymeacoffee.com/tpbabparn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[Stripe - Supporting Thanaphoom Babparn](https://buy.stripe.com/fZedRR6HSfxk73acMM)
+
 
 Also you can reach me at tp.babparn@gmail.com for another detail.
 
