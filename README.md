@@ -96,7 +96,7 @@ I also published & shared my knowledge to another platform as well
 
 - [Medium](https://medium.com/@tpbabparn)
 
-[![Thanaphoom Babparn Medium](https://github-readme-medium.vercel.app/?username=tpbabparn)](https://medium.com/@tpbabparn)
+![CleanShot 2025-03-15 at 06 37 34@2x](https://github.com/user-attachments/assets/6936cbec-f24b-4b76-a513-0413f7a50615)
 
 <br />
 
