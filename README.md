@@ -35,7 +35,7 @@ I'm running page called [TP Coder](https://www.facebook.com/tpcoder). I'm proud 
 However, If you still prefer me, interested in my project, looking for my contribution to your business, and pay me for each project instead of stock options.
 I'm ok to do so by project and I will spent my time after work or on weekend. I want to pursue a higher degree by funding myself. 🙇‍♂️
 
-I can contribute your Java/Kotlin/Rust/C#/JavaScript/TypeScript projects. I'm all-around backend development.
+I can contribute your Java/Kotlin/Rust/C#/JavaScript/TypeScript projects. Actually, If you prefer other technology, I'm still ok. I'm an all-around backend development.
 
 ## Society contributions note
 
