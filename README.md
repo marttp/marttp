@@ -29,6 +29,12 @@ Actually, I'm a backend specialist but I don't focus just only that part though.
 
 I'm running page called [TP Coder](https://www.facebook.com/tpcoder). I'm proud in my state without community support. I just want to drive society.
 
+## For Startup founder
+
+> Since I have my own direction, I might not be interesting in the opportunity of full-time work in a startup company.
+However, If you still prefer me, interested in my project, looking for my contribution to your business, and pay me for each project instead of stock options.
+I'm ok to do so by project and I will spent my time after work or weekend. I want to pursue for higher degree and funding myself. 🙇‍♂️
+
 ## Society contributions note
 
 * Please let me know if you are looking for more contributors to an open-source project and if my skills meet your expectations/requirements.
@@ -36,12 +42,6 @@ I'm running page called [TP Coder](https://www.facebook.com/tpcoder). I'm proud 
   * History #1: https://github.com/ByteByteGoHq/coding-interview-patterns
 
 * Please let me know if you are starting a non-profit organization project and whether my skills meet your expectations/requirements.
-
-## For Startup founder
-
-> Since I have my own direction, I might not be interesting in the opportunity of full-time work in a startup company.
-However, If you still prefer me, interested in my project, looking for my contribution to your business, and pay me for each project instead of stock options.
-I'm ok to do so by project and I will spent my time after work or weekend. I want to pursue for higher degree and funding myself. 🙇‍♂️
 
 ## Languages and Tools
 
