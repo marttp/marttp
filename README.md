@@ -10,77 +10,76 @@
 
 ## Talking About Me
 
-Again, I'm Thanaphoom Babparn, but you can call me Mart or Smart 😁. I'm a software engineer from Thailand who focuses on server-side technology.
-Yes, I'm a Backend developer but not focus only on that. I am also interested in the world of the cloud and DevOps. (And a little bit of Frontend skills 😂)
+Again, I'm Thanaphoom Babparn, but you can call me Mart or Smart 😁. I'm a senior software engineer from Thailand who focuses on server-side technology. Right now, I'm working in Tokyo, Japan. 
+Actually, I'm a backend specialist but I don't focus just only that part though. If it's my work potentially great impact to users and customers, I can do anything.
 
-- 👨🏽‍💻 I’m currently working as a Backend Engineer in Tokyo, Japan 🇯🇵 with 5+ years of work experience.
-- 💭 At first, I want to be a Cloud developer. However, the times have changed me. I'm proud of my current Product engineer role.
+- 👨🏽‍💻 I’m currently working as a Senior Backend Engineer in Tokyo, Japan 🇯🇵 with 5+ years of work experience.
+- 💭 I'm proud of my current Product engineer role. So I have a lot of product mindset and ownership.
 - ❤ I love to create business/enterprise backends or build something that values people
-- 🌱 I’m currently learning Rust backend development & other stuff on the server side e.g. Kubernetes, API Gateway
+- 🌱 I’m currently advancing my technique in overall collaboration & development process for supporting my ambition in solopreneur.
 - 💬 You can ask me about anything. If I can help you, I will do my best to solve your problems
 - 📫 How to reach me: tp.babparn@gmail.com
 - ⚡ Fun fact: I want to work at Big Tech companies. 🥺
 
-### [My portfolio](https://portfolio.tpcoder.dev/)
+### My website
+
+[My portfolio](https://portfolio.tpcoder.dev/)
 
 ## Facebook Page
 
 I'm running page called [TP Coder](https://www.facebook.com/tpcoder). I'm proud in my state without community support. I just want to drive society.
 
-## Note
+## Society contributions note
 
 * Please let me know if you are looking for more contributors to an open-source project and if my skills meet your expectations/requirements.
+
+  * History #1: https://github.com/ByteByteGoHq/coding-interview-patterns
+
 * Please let me know if you are starting a non-profit organization project and whether my skills meet your expectations/requirements.
+
+## For Startup founder
+
+> Since I have my own direction, I might not be interesting in the opportunity of full-time work in a startup company.
+However, If you still prefer me, interested in my project, looking for my contribution to your business, and pay me for each project instead of stock options.
+I'm ok to do so by project and I will spent my time after work or weekend. I want to pursue for higher degree and funding myself. 🙇‍♂️
 
 ## Languages and Tools
 
 ### Language
 
-* Java
-* Kotlin
-* Rust
+Java, Kotlin, Rust, Go, JavaScript, TypeScript.
 
 Note: I can write any language as long as I get paid. But these are my preferences. 😂
 
 ### Backend
 
-* Spring Boot/WebFlux
-* Quarkus
-* Axum
-* Actix
+Spring Boot, Spring WebFlux, Quarkus, Micronaut, Axum, Actix
 
 Note: I can develop new products on any framework as long as I get paid.
 
 ### Frontend
 
-* React
-* Angular
-* Android
+React, Angular, Vue, Android
 
 ### Database
 
-* Any databases. I'm familiar with SQL and NoSQL types e.g. PostgreSQL, Cassandra, Redis, MongoDB, etc.
+PostgreSQL, MySQL, MariaDB, MongoDB, Apache Cassandra, ScyllaDB, Redis
 
+Note: I can use any kind of SQL/NoSQL database because it's something to store data. But these are my preferences. 😂
 
-### Real-World Software Engineering Tools
+### Real-World Software Engineering Tools/Techniques
 
 * CI/CD tools e.g. Jenkins, GitHub Actions, CircleCI, TravisCI
 * Monitoring tools - Grafana, Kibana
-* Message Queue, Publish/Subscribe, Streaming
-* ArgoCD
+* Message Queue, Publish/Subscribe, Streaming e.g. RabbitMQ, Kafka
 
 ### Cloud & Deployment:
 
-* Containerization & Kubernetes
-* Amazon Web Services
-* Microsoft Azure
-* Google Cloud Platform
+Containerization, Docker, Kubernetes, AWS, Azure, GCP, ArgoCD
 
 ### Others
 
-* Git
-* Kong API Gateway
-* Linux-based
+Git, Kong API Gateway, Linux-based
 
 <br />
 
