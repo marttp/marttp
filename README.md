@@ -37,6 +37,8 @@ I'm ok to do so by project and I will spent my time after work or on weekend. I 
 
 I can contribute your Java/Kotlin/Rust/C#/JavaScript/TypeScript projects. Actually, If you prefer other technology, I'm still ok. I'm an all-around backend development.
 
+[Feel free to discuss](https://business.tpcoder.dev)
+
 ## Society contributions note
 
 * Please let me know if you are looking for more contributors to an open-source project and if my skills meet your expectations/requirements.
