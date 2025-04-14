@@ -51,39 +51,37 @@ I can contribute your Java/Kotlin/Rust/C#/JavaScript/TypeScript projects. Actual
 
 ### Language
 
-Java, Kotlin, Rust, Go, JavaScript, TypeScript.
+[![Programming Languages](https://skillicons.dev/icons?i=java,kotlin,rust,go,javascript,typescript,cs,python,bash)](https://skillicons.dev)
 
 Note: I can write any language as long as I get paid. But these are my preferences. 😂
 
 ### Backend
 
-Spring Boot, Spring WebFlux, Quarkus, Micronaut, Axum, Actix
+[![Backend](https://skillicons.dev/icons?i=spring,ktor,actix,bun,nestjs,dotnet,fastapi)](https://skillicons.dev)
 
 Note: I can develop new products on any framework as long as I get paid.
 
 ### Frontend
 
-React, Angular, Vue, Android
+[![Frontend](https://skillicons.dev/icons?i=react,angular,vuejs,nuxtjs,androidstudio)](https://skillicons.dev)
 
 ### Database
 
-PostgreSQL, MySQL, MariaDB, MongoDB, Apache Cassandra, ScyllaDB, Redis
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,redis,sequelize,elasticsearch,dynamodb)](https://skillicons.dev)
 
 Note: I can use any kind of SQL/NoSQL database because it's something to store data. But these are my preferences. 😂
 
 ### Real-World Software Engineering Tools/Techniques
 
-* CI/CD tools e.g. Jenkins, GitHub Actions, CircleCI, TravisCI
-* Monitoring tools - Grafana, Kibana
-* Message Queue, Publish/Subscribe, Streaming e.g. RabbitMQ, Kafka
+[![Real-World Software Engineering Tools/Techniques](https://skillicons.dev/icons?i=supabase,pinia,jenkins,githubactions,gherkin,maven,gradle,grafana,graphql,rabbitmq,kafka)](https://skillicons.dev)
 
 ### Cloud & Deployment:
 
-Containerization, Docker, Kubernetes, AWS, Azure, GCP, ArgoCD
+[![Cloud & Deployment](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,cloudflare,workers,terraform)](https://skillicons.dev)
 
 ### Others
 
-Git, Kong API Gateway, Linux-based
+[![Others](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,raspberrypi,linux,ubuntu)](https://skillicons.dev)
 
 <br />
 
