@@ -44,6 +44,7 @@ I can contribute your Java/Kotlin/Rust/C#/JavaScript/TypeScript projects. Actual
 * Please let me know if you are looking for more contributors to an open-source project and if my skills meet your expectations/requirements.
 
   * History #1: https://github.com/ByteByteGoHq/coding-interview-patterns
+  * History #2: https://github.com/winn/thaifloodhelp/pull/48
 
 * Please let me know if you are starting a non-profit organization project and whether my skills meet your expectations/requirements.
 
@@ -82,12 +83,6 @@ Note: I can use any kind of SQL/NoSQL database because it's something to store d
 ### Others
 
 [![Others](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,raspberrypi,linux,ubuntu)](https://skillicons.dev)
-
-<br />
-
-## My Github Stats
-
-[![All Stats](https://github-readme-stats.vercel.app/api?username=marttp&rank_icon=github&theme=chartreuse-dark)](https://github.com/marttp)
 
 <br />
 
