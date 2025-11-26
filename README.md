@@ -25,6 +25,10 @@ I'm a backend specialist, but I don't focus on just that part. If my work positi
 
 [My portfolio](https://portfolio.tpcoder.dev/)
 
+### My Free Course
+
+[Free Learning Paths](https://hub.tpcoder.dev/learning-paths/)
+
 ## Facebook Page
 
 I'm running page called [TP Coder](https://www.facebook.com/tpcoder). I'm proud in my state without community support. I just want to drive society.
