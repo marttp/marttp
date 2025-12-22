@@ -10,7 +10,8 @@
 
 ## Talking About Me
 
-Again, I'm Thanaphoom Babparn, but you can call me Mart or Smart 😁. I'm a senior software engineer from Thailand who focuses on server-side technology. Right now, I'm working in Tokyo, Japan. 
+Again, I'm Thanaphoom Babparn, but you can call me Mart or Smart 😁. I'm a senior software engineer from Thailand who focuses on server-side technology. Right now, I'm based in Thailand after 3 years in Tokyo, Japan.
+
 I'm a backend specialist, but I don't focus on just that part. If my work positively impacts users and customers, I can do anything.
 
 - 👨🏽‍💻 I’m currently working as a Senior Backend Engineer with 6+ years of work experience.
