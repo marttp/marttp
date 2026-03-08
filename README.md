@@ -6,6 +6,8 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanaphoom-babparn/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tpbabparn)
 
+[![committers.top badge](https://user-badge.committers.top/thailand/marttp.svg)](https://user-badge.committers.top/thailand/marttp)
+
 <br />
 
 ## Talking About Me
@@ -44,8 +46,6 @@ I'm running page called [TP Coder](https://www.facebook.com/tpcoder). I'm proud 
 ### My Free Course
 
 [Free Learning Paths](https://hub.tpcoder.dev/learning-paths/)
-
-
 
 ## For Startup founder
 
