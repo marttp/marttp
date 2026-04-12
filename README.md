@@ -106,8 +106,9 @@ Note: I can use any kind of SQL/NoSQL database because it's something to store d
 
 ## Publications
 
-I also published & shared my knowledge to another platform as well
+I also published the blogs & shared my knowledge on another platform as well
 
+- [Blog - Portfolio site](https://portfolio.tpcoder.dev/blog/)
 - [Medium](https://medium.com/@tpbabparn)
 
 <br />
