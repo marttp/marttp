@@ -21,20 +21,3 @@ jobs:
           show_icons: true
           output_path: gh-stats.svg
           github_token: ${{ secrets.OWNER_TOKEN }}
-
-      - name: Generate top languages card
-        uses: marttp/github-stats-creator@v1
-        with:
-          card_type: top-langs
-          theme: dark
-          langs_count: 8
-          output_path: top-langs.svg
-          github_token: ${{ secrets.OWNER_TOKEN }}
-
-      - name: Generate contribution graph
-        uses: marttp/github-stats-creator@v1
-        with:
-          card_type: contribution-graph
-          theme: dark
-          output_path: contributions.svg
-          github_token: ${{ secrets.OWNER_TOKEN }}
