@@ -16,8 +16,6 @@ jobs:
       - name: Generate stats card
         uses: marttp/github-stats-creator@v1
         with:
-          card_type: stats
           theme: dark
-          show_icons: true
           output_path: gh-stats.svg
-          github_token: ${{ secrets.OWNER_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
