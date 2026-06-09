@@ -20,7 +20,7 @@ jobs:
           theme: dark
           show_icons: true
           output_path: gh-stats.svg
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.OWNER_TOKEN }}
 
       - name: Generate top languages card
         uses: marttp/github-stats-creator@v1
@@ -29,7 +29,7 @@ jobs:
           theme: dark
           langs_count: 8
           output_path: top-langs.svg
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.OWNER_TOKEN }}
 
       - name: Generate contribution graph
         uses: marttp/github-stats-creator@v1
@@ -37,4 +37,4 @@ jobs:
           card_type: contribution-graph
           theme: dark
           output_path: contributions.svg
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.OWNER_TOKEN }}
