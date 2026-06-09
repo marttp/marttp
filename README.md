@@ -9,8 +9,6 @@
 [![committers.top badge](https://user-badge.committers.top/thailand/marttp.svg)](https://user-badge.committers.top/thailand/marttp)
 
 ![GitHub Stats](./gh-stats.svg)
-![Top Languages](./top-langs.svg)
-![Contributions](./contributions.svg)
 
 <br />
 
@@ -125,4 +123,3 @@ If my skeleton/demo project can help you and you want to support me, you can sup
 
 
 Also you can reach me at tp.babparn@gmail.com for another detail.
-
