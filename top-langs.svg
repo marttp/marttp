@@ -1,0 +1,154 @@
+<svg
+      width="400"
+      height="358"
+      viewBox="0 0 400 358"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      role="img"
+    >
+      <style>
+        .header {
+          font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+          fill: #58a6ff;
+          animation: fadeIn 0.8s ease-in-out forwards;
+        }
+        
+    .lang-name {
+      font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #c9d1d9;
+    }
+    .lang-percent {
+      font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #c9d1d9;
+    }
+    .lang-row {
+      opacity: 0;
+      animation: slideUp 0.4s ease-in-out forwards;
+    }
+    .bar-bg {
+      rx: 4;
+    }
+    .bar-fill {
+      rx: 4;
+    }
+  
+        
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes scaleIn {
+    from { transform: translate(-5px, 5px) scale(0); }
+    to { transform: translate(-5px, 5px) scale(1); }
+  }
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes rankAnim {
+    from { stroke-dashoffset: 251.2; }
+    to { stroke-dashoffset: var(--progress-offset); }
+  }
+
+        
+      </style>
+
+      <rect
+        x="0.5"
+        y="0.5"
+        rx="4.5"
+        height="99%"
+        width="399"
+        stroke="#30363d"
+        fill="#0d1117"
+        stroke-opacity="1"
+      />
+
+      <text
+            class="header"
+            x="25"
+            y="35"
+            data-testid="header"
+          >Most Used Languages</text>
+
+      <g
+        transform="translate(0, 55)"
+      >
+        
+    <g>
+      <g class="lang-row" style="animation-delay: 150ms">
+          <circle cx="35" cy="12" r="5" fill="#3572A5" />
+          <text class="lang-name" x="48" y="16">Python</text>
+          <text class="lang-percent" x="325" y="16">47.7%</text>
+          <rect class="bar-bg" x="25" y="24" width="350" height="8" fill="#30363d" />
+          <rect class="bar-fill" x="25" y="24" width="166.9653344042678" height="8" fill="#3572A5">
+            <animate attributeName="width" from="0" to="166.9653344042678" dur="0.6s" begin="150ms" fill="freeze" />
+          </rect>
+        </g>
+<g class="lang-row" style="animation-delay: 300ms">
+          <circle cx="35" cy="48" r="5" fill="#178600" />
+          <text class="lang-name" x="48" y="52">C#</text>
+          <text class="lang-percent" x="325" y="52">18.4%</text>
+          <rect class="bar-bg" x="25" y="60" width="350" height="8" fill="#30363d" />
+          <rect class="bar-fill" x="25" y="60" width="64.32459168844863" height="8" fill="#178600">
+            <animate attributeName="width" from="0" to="64.32459168844863" dur="0.6s" begin="300ms" fill="freeze" />
+          </rect>
+        </g>
+<g class="lang-row" style="animation-delay: 450ms">
+          <circle cx="35" cy="84" r="5" fill="#b07219" />
+          <text class="lang-name" x="48" y="88">Java</text>
+          <text class="lang-percent" x="325" y="88">13.6%</text>
+          <rect class="bar-bg" x="25" y="96" width="350" height="8" fill="#30363d" />
+          <rect class="bar-fill" x="25" y="96" width="47.75942872524991" height="8" fill="#b07219">
+            <animate attributeName="width" from="0" to="47.75942872524991" dur="0.6s" begin="450ms" fill="freeze" />
+          </rect>
+        </g>
+<g class="lang-row" style="animation-delay: 600ms">
+          <circle cx="35" cy="120" r="5" fill="#3178c6" />
+          <text class="lang-name" x="48" y="124">TypeScript</text>
+          <text class="lang-percent" x="325" y="124">8.3%</text>
+          <rect class="bar-bg" x="25" y="132" width="350" height="8" fill="#30363d" />
+          <rect class="bar-fill" x="25" y="132" width="28.98392494080616" height="8" fill="#3178c6">
+            <animate attributeName="width" from="0" to="28.98392494080616" dur="0.6s" begin="600ms" fill="freeze" />
+          </rect>
+        </g>
+<g class="lang-row" style="animation-delay: 750ms">
+          <circle cx="35" cy="156" r="5" fill="#00ADD8" />
+          <text class="lang-name" x="48" y="160">Go</text>
+          <text class="lang-percent" x="325" y="160">5.5%</text>
+          <rect class="bar-bg" x="25" y="168" width="350" height="8" fill="#30363d" />
+          <rect class="bar-fill" x="25" y="168" width="19.340251599697538" height="8" fill="#00ADD8">
+            <animate attributeName="width" from="0" to="19.340251599697538" dur="0.6s" begin="750ms" fill="freeze" />
+          </rect>
+        </g>
+<g class="lang-row" style="animation-delay: 900ms">
+          <circle cx="35" cy="192" r="5" fill="#DA5B0B" />
+          <text class="lang-name" x="48" y="196">Jupyter Notebook</text>
+          <text class="lang-percent" x="325" y="196">2.5%</text>
+          <rect class="bar-bg" x="25" y="204" width="350" height="8" fill="#30363d" />
+          <rect class="bar-fill" x="25" y="204" width="8.75937852519667" height="8" fill="#DA5B0B">
+            <animate attributeName="width" from="0" to="8.75937852519667" dur="0.6s" begin="900ms" fill="freeze" />
+          </rect>
+        </g>
+<g class="lang-row" style="animation-delay: 1050ms">
+          <circle cx="35" cy="228" r="5" fill="#fcb32c" />
+          <text class="lang-name" x="48" y="232">MDX</text>
+          <text class="lang-percent" x="325" y="232">2.2%</text>
+          <rect class="bar-bg" x="25" y="240" width="350" height="8" fill="#30363d" />
+          <rect class="bar-fill" x="25" y="240" width="7.768104704877042" height="8" fill="#fcb32c">
+            <animate attributeName="width" from="0" to="7.768104704877042" dur="0.6s" begin="1050ms" fill="freeze" />
+          </rect>
+        </g>
+<g class="lang-row" style="animation-delay: 1200ms">
+          <circle cx="35" cy="264" r="5" fill="#f1e05a" />
+          <text class="lang-name" x="48" y="268">JavaScript</text>
+          <text class="lang-percent" x="325" y="268">1.7%</text>
+          <rect class="bar-bg" x="25" y="276" width="350" height="8" fill="#30363d" />
+          <rect class="bar-fill" x="25" y="276" width="6.098985411456247" height="8" fill="#f1e05a">
+            <animate attributeName="width" from="0" to="6.098985411456247" dur="0.6s" begin="1200ms" fill="freeze" />
+          </rect>
+        </g>
+    </g>
+  
+      </g>
+    </svg>
