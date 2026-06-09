@@ -16,6 +16,7 @@ jobs:
       - name: Generate stats card
         uses: marttp/github-stats-creator@v1
         with:
-          theme: tokyonight
+          theme: dark
           output_path: gh-stats.svg
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Update GitHub stats SVG file
