@@ -8,6 +8,10 @@
 
 [![committers.top badge](https://user-badge.committers.top/thailand/marttp.svg)](https://user-badge.committers.top/thailand/marttp)
 
+![GitHub Stats](./gh-stats.svg)
+![Top Languages](./top-langs.svg)
+![Contributions](./contributions.svg)
+
 <br />
 
 ## Talking About Me
