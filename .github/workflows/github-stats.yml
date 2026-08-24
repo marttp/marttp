@@ -18,5 +18,5 @@ jobs:
         with:
           theme: dark
           output_path: gh-stats.svg
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.STATS_TOKEN }}
           commit_message: Update GitHub stats SVG file
